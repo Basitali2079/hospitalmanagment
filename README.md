@@ -2,13 +2,13 @@
 ---
 ## screenshots
 ### Homepage
-![homepage snap](https://github.com/Basitali2079/hospitalmanagment/blob/main/static/screenshots/homepage.png?raw=true)
+![homepage snap](https://github.com/Basitali2079/hospitalmanagment/blob/master/static/screenshots/homepage.png?raw=true)
 ### Admin Dashboard
-![dashboard snap](https://github.com/Basitali2079/hospitalmanagment/blob/main/static/screenshots/admin_dashboard.png?raw=true)
+![dashboard snap](https://github.com/Basitali2079/hospitalmanagment/blob/master/static/screenshots/admin_dashboard.png?raw=true)
 ### Invoice
-![invoice snap](https://github.com/Basitali2079/hospitalmanagment/blob/main/static/screenshots/invoice.png?raw=true)
+![invoice snap](https://github.com/Basitali2079/hospitalmanagment/blob/master/static/screenshots/invoice.png?raw=true)
 ### Doctor list
-![doctor snap](https://github.com/Basitali2079/hospitalmanagment/blob/main/static/screenshots/admin_doctor.png?raw=true)
+![doctor snap](https://github.com/Basitali2079/hospitalmanagment/blob/master/static/screenshots/admin_doctor.png?raw=true)
 ---
 ## Functions
 ### Admin
